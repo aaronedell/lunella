@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RingOut.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>6</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>C2BAE4AEFA8299780A1480684F0E506572F4F59E</string>
+				<key>dateExpires</key>
+				<string>11/16/26</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>6</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>C2BAE4AEFA8299780A1480684F0E506572F4F59E</string>
+						<key>dateExpires</key>
+						<string>11/16/26</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>entitlements</key>
+					<dict>
+						<key>application-identifier</key>
+						<string>5G84F33K2Q.Edell-Enterprises.RingOut.RingOutWidget</string>
+						<key>beta-reports-active</key>
+						<true/>
+						<key>com.apple.developer.team-identifier</key>
+						<string>5G84F33K2Q</string>
+						<key>com.apple.security.application-groups</key>
+						<array>
+							<string>group.Edell-Enterprises.RingOut</string>
+						</array>
+						<key>get-task-allow</key>
+						<false/>
+					</dict>
+					<key>name</key>
+					<string>RingOutWidgetExtension.appex</string>
+					<key>profile</key>
+					<dict>
+						<key>UUID</key>
+						<string>49a6c736-0c3b-48e4-817e-8b7147c0ed06</string>
+						<key>dateExpires</key>
+						<string>11/16/26</string>
+						<key>name</key>
+						<string>iOS Team Store Provisioning Profile: Edell-Enterprises.RingOut.RingOutWidget</string>
+					</dict>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>5G84F33K2Q</string>
+						<key>name</key>
+						<string>Aaron Edell</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0.2</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>5G84F33K2Q.Edell-Enterprises.RingOut</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>5G84F33K2Q</string>
+				<key>com.apple.security.application-groups</key>
+				<array>
+					<string>group.Edell-Enterprises.RingOut</string>
+				</array>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>RingOut.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>5c1a2b64-d1e8-4d08-9436-924a2a767e89</string>
+				<key>dateExpires</key>
+				<string>11/16/26</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: Edell-Enterprises.RingOut</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>5G84F33K2Q</string>
+				<key>name</key>
+				<string>Aaron Edell</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0.2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

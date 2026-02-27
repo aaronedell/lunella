@@ -1,0 +1,24 @@
+{
+  "source": "/Users/aaronedell/Documents/Ring In or Out/RingOut/RingOutWidget/RingOutWidget.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "RingOut Cycle",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 178
+        }
+      },
+      {
+        "comment": "",
+        "key": "Shows IN or OUT phase of your 28-day cycle.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 179
+        }
+      }
+    ]
+  },
+  "version": 1
+}

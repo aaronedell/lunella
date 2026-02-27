@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'RingOut' in project 'RingOut'
+➜ Explicit dependency on target 'RingOutWidgetExtension' in project 'RingOut'
+Target 'RingOutWidgetExtension' in project 'RingOut' (no dependencies)

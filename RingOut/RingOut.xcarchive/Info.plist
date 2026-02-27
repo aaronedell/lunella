@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/RingOut.app</string>
+		<key>Architectures</key>
+		<array>
+			<string>arm64</string>
+		</array>
+		<key>CFBundleIdentifier</key>
+		<string>Edell-Enterprises.RingOut</string>
+		<key>CFBundleShortVersionString</key>
+		<string>1.0.2</string>
+		<key>CFBundleVersion</key>
+		<string>6</string>
+		<key>SigningIdentity</key>
+		<string>Apple Development: aaronedell@gmail.com (38Z8Z5MKWF)</string>
+		<key>Team</key>
+		<string>5G84F33K2Q</string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2026-02-16T21:05:02Z</date>
+	<key>Name</key>
+	<string>RingOut</string>
+	<key>SchemeName</key>
+	<string>RingOut</string>
+</dict>
+</plist>
